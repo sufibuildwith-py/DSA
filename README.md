@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sufibuildwith-py/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0039-combination-sum](https://github.com/sufibuildwith-py/DSA/tree/master/0039-combination-sum) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/sufibuildwith-py/DSA/tree/master/2217-find-palindrome-with-fixed-length) |
 ## Binary Search
 |  |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/sufibuildwith-py/DSA/tree/master/0009-palindrome-number) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/sufibuildwith-py/DSA/tree/master/2217-find-palindrome-with-fixed-length) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/sufibuildwith-py/DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
