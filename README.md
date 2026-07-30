@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sufibuildwith-py/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/sufibuildwith-py/DSA/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/sufibuildwith-py/DSA/tree/master/0039-combination-sum) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sufibuildwith-py/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/sufibuildwith-py/DSA/tree/master/2217-find-palindrome-with-fixed-length) |
 ## Binary Search
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sufibuildwith-py/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sufibuildwith-py/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,4 +53,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sufibuildwith-py/DSA/tree/master/0011-container-with-most-water) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sufibuildwith-py/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sufibuildwith-py/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sufibuildwith-py/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
