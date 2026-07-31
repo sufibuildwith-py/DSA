@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sufibuildwith-py/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/sufibuildwith-py/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/sufibuildwith-py/DSA/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/sufibuildwith-py/DSA/tree/master/0039-combination-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sufibuildwith-py/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/sufibuildwith-py/DSA/tree/master/2217-find-palindrome-with-fixed-length) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sufibuildwith-py/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/sufibuildwith-py/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/sufibuildwith-py/DSA/tree/master/0015-3sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sufibuildwith-py/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/sufibuildwith-py/DSA/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
