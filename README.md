@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sufibuildwith-py/DSA/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/sufibuildwith-py/DSA/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/sufibuildwith-py/DSA/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/sufibuildwith-py/DSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sufibuildwith-py/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/sufibuildwith-py/DSA/tree/master/2217-find-palindrome-with-fixed-length) |
 ## Binary Search
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sufibuildwith-py/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sufibuildwith-py/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sufibuildwith-py/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/sufibuildwith-py/DSA/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,4 +80,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sufibuildwith-py/DSA/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/sufibuildwith-py/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
