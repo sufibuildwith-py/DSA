@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sufibuildwith-py/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/sufibuildwith-py/DSA/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0088-merge-sorted-array](https://github.com/sufibuildwith-py/DSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sufibuildwith-py/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/sufibuildwith-py/DSA/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/sufibuildwith-py/DSA/tree/master/0169-majority-element) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/sufibuildwith-py/DSA/tree/master/2217-find-palindrome-with-fixed-length) |
 ## Binary Search
 |  |
@@ -40,6 +42,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sufibuildwith-py/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sufibuildwith-py/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/sufibuildwith-py/DSA/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +87,7 @@
 | ------- |
 | [0015-3sum](https://github.com/sufibuildwith-py/DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/sufibuildwith-py/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/sufibuildwith-py/DSA/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
@@ -92,4 +96,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sufibuildwith-py/DSA/tree/master/0020-valid-parentheses) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sufibuildwith-py/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sufibuildwith-py/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
